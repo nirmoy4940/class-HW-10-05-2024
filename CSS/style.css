@@ -1,0 +1,72 @@
+.box{
+	width: 100%;
+	height:100px;
+	background-color: rgba(0, 0, 0, .1);
+	display: none;
+}
+
+.h2{
+	display:inline;
+}
+a{
+	display: block;
+}
+.img{ 
+	display:inline-block;
+
+}
+
+.header	{
+	height: 50px;
+	background-color:skyblue;
+
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	display: inline;
+	float: left;
+	height:400px;
+	background-color:#f05990;
+	width:50%;
+}
+.about_me{
+	display: inline;
+	float: right;
+	height:400px;
+	background-color: #ffabca;
+
+	width:50%;
+}
+.footer{
+	display: block;
+	height:200px;
+	background-color: skyblue;
+	width: 100%;
+}
+.container{
+	overflow: hidden;
+}
+.item1{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color:#cbcbca;
+
+}
+.item2{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color:#768eab;
+
+}
+.item3{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color:#a285a6;
+
+}
